@@ -59,7 +59,7 @@ public class JHDFServiceImpl extends AbstractService
             + "Please obtain the necessary JAR files from "
             + "https://docs.openmicroscopy.org/bio-formats/"
             + FormatTools.VERSION + "/developers/java-library.html.\n"
-            + "Required JAR file is janelia-jhdf5 (org.scijava:janelia-jhdf5) and its dependencies.";
+            + "Required JAR file is janelia-jhdf5 (org.janelia:janelia-jhdf5) and its dependencies.";
 
     // -- Fields --
     private String currentFile;

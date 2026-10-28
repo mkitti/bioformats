@@ -444,7 +444,7 @@
       <name>SciJava</name>
       <url>https://maven.scijava.org/content/groups/public/</url>
     </repository>
-    <!-- TEMPORARY: org.bytedeco snapshots (javacpp, hdf5) needed by janelia-jhdf5 22.03.01-SNAPSHOT.
+    <!-- TEMPORARY: org.bytedeco snapshots (javacpp, hdf5) needed by janelia-jhdf5 26.10.0-SNAPSHOT.
          Remove once janelia-jhdf5 is released against released bytedeco artifacts. -->
     <repository>
       <id>central-portal-snapshots</id>
